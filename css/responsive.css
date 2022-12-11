@@ -1,0 +1,29 @@
+@media (max-width: 1024px) {
+    .nav-links ul {
+        display: none;
+    }
+    .burger-bar {
+        display: block;
+    }
+    .container-header {
+        margin: 0 auto;
+        padding: 0 5%;
+        gap: 20px;
+        margin-bottom: 100px;
+    }
+}
+
+
+
+@media (max-width: 480px) {
+    .nav-links ul {
+        display: none;
+    }
+    .logo{
+        display: none;
+    }
+    .burger-bar {
+        display: block;
+    }
+}
+
